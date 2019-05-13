@@ -17,3 +17,4 @@ if test $reponse = "d"; then
         done
 else
         echo "Cette option n'existe pas"
+fi
